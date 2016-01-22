@@ -1,0 +1,231 @@
+what counts as property depends on what works to treat as property
+and that not only can change, but has changed
+but hunter gatherers didn't treat land, for example, as property in the way we do
+[2] but we are in the midst of such a change now
+but with the arrival of networks, it's as if we've moved to a planet with a breathable atmosphere
+data moves like smells now
+but building new things takes too long
+people should be able to charge for content when it works to charge for content
+but by "works" i mean something more subtle than "when they can get away with it
+" i mean when people can charge for content without warping society in order to do it
+the crazy legal measures that the labels and studios have been taking have a lot of that flavor
+newspapers and magazines are just as screwed, but they are at least declining gracefully
+the riaa and mpaa would make us breathe through tubes if they could
+ultimately it comes down to common sense
+this is where it's helpful to have working democracies and multiple sovereign countries
+private property is an extremely useful ideaarguably one of our greatest inventions
+so far, each new definition of it has brought us increasing material wealth
+[4] it seems reasonable to suppose the newest one will too
+in this essay i'm going to demonstrate this phenomenon by describing some
+any one of them could make you a billionaire
+don't worry, it's not a sign of weakness
+arguably it's a sign of sanity
+the biggest startup ideas are terrifying
+and not just because they'd be a lot of work
+she says to him:
+here's the thing: if you ever got me, you wouldn't have a clue what to do with me
+that's what these ideas say to us
+this phenomenon is one of the most important things you can understand about startups
+[1] you'd expect big startup ideas to be attractive, but actually they tend to repel you
+and that has a bunch of consequences
+even the most ambitious people are probably best off approaching them obliquely
+a new search engine
+the best ideas are just on the right side of impossible
+i don't know if this one is possible, but there are signs it might be
+that was not a natural move for microsoft
+they did it because they were afraid of google, and google was in the search business
+microsoft : google :: google : facebook
+google used to give me a page of the right answers, fast, with no clutter
+and the pages don't have the clean, sparse feel they used to
+google search results used to look like the output of a unix utility
+now if i accidentally put the cursor in the wrong place, anything might happen
+the way to win here is to build the search engine all the hackers use
+and for the first time in over a decade the idea of switching seems thinkable to me
+feel free to make it excessively hackerish
+make it really good for code search, for example
+replace email
+email was not designed to be used the way we use it now
+email is not a messaging protocol
+it's a todo list
+or rather, my inbox is a todo list, and email is the way things get onto it
+but it is a disastrously bad todo list
+as a todo list protocol, the new protocol should give more power to the recipient than email does
+i want there to be more restrictions on what someone can put on my todo list
+) when does it have to be done?
+this is one of those ideas that's like an irresistible force meeting an immovable object
+on one hand, entrenched protocols are impossible to replace
+and if email is going to get replaced eventually, why not now?
+they're all at the mercy of email too
+whatever you build, make it fast
+gmail has become painfully slow
+gmail is slow because google can't afford to spend a lot on it
+but people will pay for this
+i'd have no problem paying $50 a month
+at least $1000 a month
+replace universities
+people are all over this idea lately, and i think they're onto something
+one could do a lot better for a lot less money
+i don't think universities will disappear
+they won't be replaced wholesale
+they'll just lose the de facto monopoly on certain types of learning that they once had
+y combinator itself is arguably one of them
+if learning breaks up into many little pieces, credentialling may separate from it
+universities seem the place to start
+internet drama
+hollywood has been slow to embrace the internet
+a lot of the reason is the horribleness of cable clients, also known as tvs
+our family didn't wait for apple tv
+we hated our last tv so much that a few months ago we replaced it with an imac bolted to the wall
+more can be stolen by things that are a little more closely related, like games
+there are two ways delivery and payment could play out
+if that's the way things play out, there will also be a need for such infrastructure companies
+the next steve jobs
+his answer was simply "no
+" i already feared that would be the answer
+i asked more to see how he'd qualify it
+but he didn't qualify it at all
+no, there will be no more great new stuff beyond whatever's currently in the pipeline
+so if apple's not going to make the next ipad, who is? none of the existing players
+so the company that creates the next wave of hardware is probably going to have to be a startup
+i realize it sounds preposterously ambitious for a startup to try to become as big as apple
+but no more ambitious than it was for apple to become as big as apple, and they did it
+steve jobs has shown us what's possible
+now steve is gone there's a vacuum we can all feel
+if a new company led boldly into the future of hardware, users would follow
+the ceo of that company, the "next steve jobs," might not measure up to steve jobs
+but he wouldn't have to
+he'd just have to do a better job than samsung and hp and nokia, and that seems pretty doable
+bring back moore's law
+the last 10 years have reminded us what moore's law actually says
+actually what it says is that circuit densities will double every 18 months
+it used to seem pedantic to point that out
+not any more
+intel can no longer give us faster cpus, just more of them
+this moore's law is not as good as the old one
+there are several ways to approach this problem
+and if it's not impossible but simply very hard, it might be worth trying to write it
+the expected value would be high even if the chance of succeeding was low
+the reason the expected value is so high is web services
+and that would in turn mean that you got practically all the users
+they'd take most of intel's business
+then the programmer still does much of the work of optimization
+these people might be your employees, or you might create a marketplace for optimization
+i realize how crazy all this sounds
+in fact, what i like about this idea is all the different ways in which it's wrong
+trying to write the sufficiently smart compiler is by definition a mistake
+now that's what i call a startup idea
+ongoing diagnosis
+for example, in 2004 bill clinton found he was feeling short of breath
+it seems reasonable to assume bill clinton has the best medical care available
+ditto for cancer
+cancer will show up on some sort of radar screen immediately
+(of course, what shows up on the radar screen may be different from what we think of now as cancer
+for example, a friend of mine once had her brain scanned as part of a study
+she was horrified when the doctors running the study discovered what appeared to be a large tumor
+after further testing, it turned out to be a harmless cyst
+but it cost her a few days of terror
+but i think that's just an artifact of current limitations
+there is room for a lot of startups here
+let me conclude with some tactical advice
+don't say, for example, that you're going to replace email
+if you do that you raise too many expectations
+just say you're building todo-list software
+that sounds harmless
+people can notice you've replaced email when it's a fait accompli
+empirically, the way to do really big things seems to be to start with deceptively small things
+empirically, it's not just for other people that you need to start small
+you need to for your own sake
+neither bill gates nor mark zuckerberg knew at first how big their companies were going to get
+all they knew was that they were onto something
+you'll be better off if you operate like columbus and just head in a general westerly direction
+start with something you know works, and when you expand, expand westward
+it felt as if there was some kind of wall between us
+i could never quite tell if they understood what i was saying
+you won't have to babysit the round to make sure it happens
+was there some kind of inverse relation between resourcefulness and being hard to talk to?
+you don't have to explain in detail; they'll chase down all the implications
+that's the connection
+it's conversational resourcefulness
+they traversed idea space as gingerly as a very old person traverses the physical world
+the unsuccessful founders weren't stupid
+they just weren't eager to
+so being hard to talk to was not what was killing the unsuccessful startups
+it was a sign of an underlying lack of resourcefulness
+that's what was killing them
+but the most immediate evidence i had that something was amiss was that i couldn't talk to them
+there are great startup ideas lying around unexploited right under our noses
+one reason we don't see them is a phenomenon i call schlep blindness
+schlep was originally a yiddish word but has passed into general use in the us
+it means a tedious, unpleasant task
+no one likes schleps, but hackers especially dislike them
+maybe that's possible, but i haven't seen it
+one of the many things we do at y combinator is teach hackers about the inevitability of schleps
+no, you can't start a startup by just writing code
+i remember going through this realization myself
+a company is defined by the schleps it will undertake
+and schleps should be dealt with the same way you'd deal with a cold swimming pool: just jump in
+the most dangerous thing about our dislike of schleps is that much of it is unconscious
+your unconscious won't even let you see ideas that involve painful schleps
+that's schlep blindness
+the phenomenon isn't limited to startups
+their unconscious mind decides for them, shrinking from the work involved
+the most striking example i know of schlep blindness is stripe, or rather stripe's idea
+thousands of people must have known about this problem
+you'd have to make deals with banks
+plus there are probably all sorts of regulations to comply with
+it's a lot more intimidating to start a startup like this than a recipe site
+that scariness makes ambitious ideas doubly valuable
+(this is also true of starting a startup generally
+maybe that's one reason the most successful startups of all so often have young founders
+in practice the founders grow with the problems
+but no one seems able to foresee that, not even older, more experienced founders
+they don't know how much they can grow, but they also don't know how much they'll need to
+older founders only make the first mistake
+ignorance can't solve everything though
+some ideas so obviously entail alarming schleps that anyone can see them
+how do you see ideas like that? the trick i recommend is to take yourself out of the picture
+somehow it's as if most places were sprayed with startupicide
+i wondered about this for years
+a couple weeks ago i finally figured it out
+i was framing the question wrong
+the problem is not that most towns kill startups
+it's that death is the default for startups, and most towns don't save them
+startups in other places are just doing what startups naturally do: fail
+the real question is, what's saving startups in places like silicon valley? [2]
+environment
+and what drives them both is the number of startup people around you
+it's quite a leap to start a startup
+it's an unusual thing to do
+but in silicon valley it seems normal
+in most places, if you start a startup, people treat you as if you're unemployed
+having people around you care about what you're doing is an extraordinarily powerful force
+even the most willful people are susceptible to it
+he responded so eagerly that for about half a second i found myself considering doing it
+in most other cities, the prospect of starting a startup just doesn't seem real
+in the valley it's not only real but fashionable
+that no doubt causes a lot of people to start startups who shouldn't
+but i think that's ok
+the second component of the antidote is chance meetings with people who can help you
+the reason startups are more likely to make it here is that great things happen to them too
+in the valley, lightning has a sign bit
+and moreover has advanced views, for 2004, on founders retaining control of their companies
+you can't say precisely what the miracle will be, or even for sure that one will happen
+i bet this is true even for startups we fund
+chance meetings play a role like the role relaxation plays in having ideas
+the critical thing in both cases is that they drift just the right amount
+the meeting between larry page and sergey brin was a good example
+for larry page the most important component of the antidote was sergey brin, and vice versa
+the antidote is people
+i'm not sure why this is so
+a large part of yc's function is to accelerate that process
+to make a startup hub, you need a lot of people interested in startups
+there are three reasons
+the first, obviously, is that if you don't have enough density, the chance meetings don't happen
+sean parker was exactly what facebook needed in 2004
+this is one of the reasons we fund such a large number of companies, incidentally
+in most places the atmosphere pulls you back toward the mean
+i flew into the bay area a few days ago
+i notice this every time i fly over the valley: somehow you can sense something is going on
+obviously you can sense prosperity in how well kept a place looks
+but there are different kinds of prosperity
+silicon valley doesn't look like boston, or new york, or la, or dc
